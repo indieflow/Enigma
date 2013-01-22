@@ -1,0 +1,87 @@
+Executing: input C:\Users\afielder\Documents\GitHub\Enigma\SW\Test Frame.SLDASM
+  Reading aruba model from file: C:\Users\afielder\Documents\GitHub\Enigma\SW\Test Frame.SLDASM
+Beginning SolidWorks import
+
+--------------------------------------------------------------------
+Translation started at: Tue Jan 22 14:16:30 2013
+
+Start to translate SolidWorks file to DirectConnect (version 7.0.28.0) model:
+ASTC8806160(4745): error: Reference to #4703 on line 4293 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(8546): error: Reference to #8486 on line 7103 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(13830): error: Reference to #13724 on line 2318 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(22966): error: Reference to #22806 on line 311 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(24119): error: Reference to #23903 on line 22136 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(30046): error: Reference to #27305 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(32069): error: Reference to #18261 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(33252): error: Reference to #32944 on line 16974 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(34024): error: Reference to #9255 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(36054): error: Reference to #203 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(36673): error: Reference to #36348 on line 28083 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(37023): error: Reference to #36692 on line 22944 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(38849): error: Reference to #3947 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(42371): error: Reference to #42000 on line 18133 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(44001): error: Reference to #3598 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(47970): error: Reference to #46525 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(50016): error: Reference to #37453 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(51543): error: Reference to #51064 on line 16143 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(52006): error: Reference to #28399 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(52660): error: Reference to #52181 on line 38060 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(56066): error: Reference to #55570 on line 42772 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(57177): error: Reference to #56676 on line 6276 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(59804): error: Reference to #31843 is advanced_brep_shape_representation, not compatible with representation_item.
+ASTC8806160(60603): error: Reference to #60080 on line 14128 is advanced_brep_shape_representation, not compatible with representation_item.
+
+Number of products in "ASTC8806160.step" = 26
+Model Summary:
+	axis2_placement_3d: 64
+	model_definition: 1
+	product_shape: 26
+	shape_definition_representation: 26
+	shape_representation_relationship: 24
+	shape_representation_relationship_with_transform: 61
+
+	Geometry Items:
+
+	Container Items:
+		closed_shell: 24
+		face_surface: 1790
+		geometric_shape_representation: 50
+		manifold_solid_brep: 24
+Translation succeeded.
+Translation ended at: Tue Jan 22 14:16:41 2013
+
+--------------------------------------------------------------------
+
+  Finished: 11.200809 seconds.
+Executing: create splinefit true true false
+    ---
+    Created spline fit.
+       Created 0 curves in 0.000 seconds
+       Created 0 surfaces in 0.000 seconds
+       Created 24 shells in 0.977 seconds
+       Total 0.977 seconds elapsed.
+Executing: output [wire]C:\Temp\Test Frame.SLDASM_output.wire
+  Writing aruba model to file: C:\Temp\Test Frame.SLDASM_output.wire
+Beginning SPF export
+
+--------------------------------------------------------------------
+Translation started at: Tue Jan 22 14:16:42 2013
+
+Start to translate DirectConnect (version 7.0.28.0) model to Alias (.wire) file:
+    Start to build Alias model: Tue Jan 22 14:16:43 2013
+.......................
+     Output options:
+      wantNurbs = 1
+      wantMesh  = 1
+      wantCurve = 1
+    .......................
+        Start Bspline And/Or LOD geometry build.
+        Finish Bspline and/or LOD geometry build: 0.000 seconds
+    Finish Alias model build: 0.002581 seconds.
+Alias model has one root node.
+Translation succeeded.
+Translation ended at: Tue Jan 22 14:16:43 2013
+
+--------------------------------------------------------------------
+
+  Finished: 0.290259 seconds.
