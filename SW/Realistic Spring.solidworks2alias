@@ -1,0 +1,16 @@
+Executing: input C:\Users\afielder\Documents\GitHub\Enigma\SW\Realistic Spring.SLDASM
+  Reading aruba model from file: C:\Users\afielder\Documents\GitHub\Enigma\SW\Realistic Spring.SLDASM
+Beginning SolidWorks import
+
+--------------------------------------------------------------------
+Translation started at: Fri Jan 25 12:35:04 2013
+
+Start to translate SolidWorks file to DirectConnect (version 7.0.28.0) model:
+Error: cannot load SolidWorks. It needs to be installed and licensed.
+Translation failed.
+Translation ended at: Fri Jan 25 12:35:04 2013
+
+--------------------------------------------------------------------
+
+The input translation failed.
+  Finished: 0.014833 seconds.
