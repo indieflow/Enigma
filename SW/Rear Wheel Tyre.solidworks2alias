@@ -1,0 +1,16 @@
+Executing: input C:\Users\afielder\Documents\GitHub\Enigma\SW\Rear Wheel Tyre.SLDPRT
+  Reading aruba model from file: C:\Users\afielder\Documents\GitHub\Enigma\SW\Rear Wheel Tyre.SLDPRT
+Beginning SolidWorks import
+
+--------------------------------------------------------------------
+Translation started at: Tue Feb 05 15:25:45 2013
+
+Start to translate SolidWorks file to DirectConnect (version 7.0.28.0) model:
+Error: cannot load SolidWorks. It needs to be installed and licensed.
+Translation failed.
+Translation ended at: Tue Feb 05 15:25:45 2013
+
+--------------------------------------------------------------------
+
+The input translation failed.
+  Finished: 0.018305 seconds.

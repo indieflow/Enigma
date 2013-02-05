@@ -3,60 +3,14 @@ Executing: input C:\Users\afielder\Documents\GitHub\Enigma\SW\Rear Wheel.SLDPRT
 Beginning SolidWorks import
 
 --------------------------------------------------------------------
-Translation started at: Tue Jan 29 17:34:33 2013
+Translation started at: Tue Feb 05 15:25:38 2013
 
 Start to translate SolidWorks file to DirectConnect (version 7.0.28.0) model:
-AST4492380(27040): error: Reference to #1519 is advanced_brep_shape_representation, not compatible with representation_item.
-
-Number of products in "AST4492380.step" = 1
-Model Summary:
-	axis2_placement_3d: 1
-	model_definition: 1
-	product_shape: 1
-	shape_definition_representation: 1
-
-	Geometry Items:
-
-	Container Items:
-		closed_shell: 1
-		face_surface: 493
-		geometric_shape_representation: 1
-		manifold_solid_brep: 1
-Translation succeeded.
-Translation ended at: Tue Jan 29 17:34:37 2013
+Error: cannot load SolidWorks. It needs to be installed and licensed.
+Translation failed.
+Translation ended at: Tue Feb 05 15:25:38 2013
 
 --------------------------------------------------------------------
 
-  Finished: 4.749331 seconds.
-Executing: create splinefit true true false
-    ---
-    Created spline fit.
-       Created 0 curves in 0.000 seconds
-       Created 0 surfaces in 0.000 seconds
-       Created 1 shell in 1.797 seconds
-       Total 1.797 seconds elapsed.
-Executing: output [wire]C:\Temp\Rear Wheel.SLDPRT_output.wire
-  Writing aruba model to file: C:\Temp\Rear Wheel.SLDPRT_output.wire
-Beginning SPF export
-
---------------------------------------------------------------------
-Translation started at: Tue Jan 29 17:34:39 2013
-
-Start to translate DirectConnect (version 7.0.28.0) model to Alias (.wire) file:
-    Start to build Alias model: Tue Jan 29 17:34:39 2013
-.......................
-     Output options:
-      wantNurbs = 1
-      wantMesh  = 1
-      wantCurve = 1
-    .......................
-        Start Bspline And/Or LOD geometry build.
-        Finish Bspline and/or LOD geometry build: 0.000 seconds
-    Finish Alias model build: 0.000801 seconds.
-Alias model has one root node.
-Translation succeeded.
-Translation ended at: Tue Jan 29 17:34:39 2013
-
---------------------------------------------------------------------
-
-  Finished: 0.230461 seconds.
+The input translation failed.
+  Finished: 0.013550 seconds.
